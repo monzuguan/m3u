@@ -1,2 +1,3 @@
 # m3u
 TV list
+for kodi or potplay...
