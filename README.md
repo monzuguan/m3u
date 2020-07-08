@@ -1,6 +1,6 @@
 # m3u
 TV list
 for kodi
-Create branch discovery
+Create branch discover for find the new url
 to learn rebase
 
