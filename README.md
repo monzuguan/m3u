@@ -1,4 +1,5 @@
 # m3u
 TV list
-for kodi or potplay...
+for kodi
 Create branch discovery
+
